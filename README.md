@@ -2,7 +2,7 @@
 
 <hr/>
 
-### Estudante de Desenvolvimento Front End
+### Estudante de Desenvolvimento Web
 #### Ensino Técnico Integrado ao Ensino médio em Desenvolvimento de Sistemas pela Escola Técnica Estadual Luiz Alvez Lacerda 
 
 <hr>
