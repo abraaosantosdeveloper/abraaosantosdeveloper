@@ -10,7 +10,9 @@
 #### Estudando desenvolvimento web através da plataforma Udemy
 #### Dedicando-me a aprimorar meus conhecimentos no segmento Front-End do desenvolvimento Web, bem como bancos de dados com PHP e linguagem de programação JavaScript.
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
+
+![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraa0-Dev&show_icons=true&theme=react)
+
 <hr>
 
 ## Tecnologias nas quais busco me aprimorar:
