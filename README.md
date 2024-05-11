@@ -2,7 +2,7 @@
 
 <hr/>
 
-### Desenvolvedor Web Freelancer
+### Desenvolvedor Web Freelancer 💻
 #### Ensino Técnico Integrado ao Ensino médio em Desenvolvimento de Sistemas pela Escola Técnica Estadual Luiz Alvez Lacerda 
 
 <hr>
