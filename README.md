@@ -2,13 +2,17 @@
 
 <hr/>
 
-### Estudante de Desenvolvimento Web
+### Desenvolvedor Web Freelancer
 #### Ensino Técnico Integrado ao Ensino médio em Desenvolvimento de Sistemas pela Escola Técnica Estadual Luiz Alvez Lacerda 
+
+|JavaSript|.NET / C#|PHP|MySql|
+|---|---|---|---|
+|✔️|🕐|✔️|✔️|
 
 <hr>
 
-#### Estudando desenvolvimento web através da plataforma Udemy
-#### Dedicando-me a aprimorar meus conhecimentos no segmento Front-End do desenvolvimento Web, bem como bancos de dados com PHP e linguagem de programação JavaScript.
+#### Sempre ampliando e consolidando minha base de conhecimentos!!!
+#### Dedicando-me a adquirir mais e mais competências em desenvolvimento web, desde o front-end, ao back-end, tornando-me versátil e qualificado para o desenvolvimento de apps web!
 <hr>
 
 ![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraa0-Dev&show_icons=true&theme=react)
