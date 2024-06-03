@@ -1,9 +1,8 @@
 # Ola! Sou Abraão, seja bem-vindo(a) ao meu perfil! 👋🏽🧑🏽‍💻<Br>
 
 ### Desenvolvedor Web Freelancer 💻
-#### Ensino Técnico Integrado ao Ensino médio em Desenvolvimento de Sistemas pela Escola Técnica Estadual Luiz Alvez Lacerda 
 
-<hr>
+#### Ensino Técnico Integrado ao Ensino médio em Desenvolvimento de Sistemas pela Escola Técnica Estadual Luiz Alvez Lacerda 
 
 #### Sempre ampliando e consolidando minha base de conhecimentos!!!
 #### Dedicando-me a adquirir mais e mais competências em desenvolvimento web, desde o front-end, ao back-end, tornando-me versátil e qualificado para o desenvolvimento de apps web!
