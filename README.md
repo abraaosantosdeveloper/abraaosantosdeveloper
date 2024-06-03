@@ -1,4 +1,4 @@
-### Olá! eu me chamo Abraão. 👋🏽🧑🏽‍💻<Br>
+#### Ola! Sou Abraão, seja bem-vindo(a) ao meu perfil! 👋🏽🧑🏽‍💻<Br>
 
 <hr/>
 
