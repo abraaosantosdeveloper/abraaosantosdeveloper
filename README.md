@@ -12,7 +12,6 @@
 <hr>
 
 ![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraa0-Dev&show_icons=true&theme=react)
-
 <hr>
 
 ## Tecnologias com que trabalho e busco aprimorar-me diariamente:
