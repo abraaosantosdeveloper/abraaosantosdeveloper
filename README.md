@@ -1,7 +1,5 @@
 # Ola! Sou Abraão, seja bem-vindo(a) ao meu perfil! 👋🏽🧑🏽‍💻<Br>
 
-<hr/>
-
 ### Desenvolvedor Web Freelancer 💻
 #### Ensino Técnico Integrado ao Ensino médio em Desenvolvimento de Sistemas pela Escola Técnica Estadual Luiz Alvez Lacerda 
 
