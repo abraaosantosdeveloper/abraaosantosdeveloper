@@ -6,7 +6,7 @@ Always learning, always improving.
 #### System Development Integrated technician course in Escola Técnica Estadual Luiz Alves Lacerda - Pernambuco - Brazil
 
 #### Always dedicating to improve my knowledge in web development. From the Front-end to the back-end!
-Obsessed by learning, so I can change the world and people's live through the Information Technology!
+Obsessed by learning, so I can change the world and people's live through the Information Technology!<br>
 Building experience with python.
 <hr>
 
