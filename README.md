@@ -1,6 +1,6 @@
 # Hello, World! I'm Abraão, welcome to my profile! 👋🏽🧑🏽‍💻<Br>
 
-### Freelancer Python Developer 💻
+### Freelancer Web Developer 💻
 Always learning, always improving.
 
 #### System Development Integrated technician course in Escola Técnica Estadual Luiz Alves Lacerda - Pernambuco - Brazil
