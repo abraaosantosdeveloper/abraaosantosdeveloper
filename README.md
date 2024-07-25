@@ -36,3 +36,6 @@ Building experience with I.T.
 ### You can find me in:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61554218602385) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abraao_santos.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abra%C3%A3o-santos-aaa915273/) 
 
+<hr>
+
+### I'm waiting for you, so we can talk about anything related to Technology!
