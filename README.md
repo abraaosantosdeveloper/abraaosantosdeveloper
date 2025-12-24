@@ -19,7 +19,7 @@ Building experience with I.T.
 <br>
 # 📊 GitHub Stats:
 ## General Stats
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=abraaosantosdeveloper&theme=dark&title_color=50fa7b&icon_color=fb8c00&stroke_color=8be9fd) <br/>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=abraaosantosdeveloper&theme=dark&hide=repos,forks,prs_merged&title_color=50fa7b&icon_color=fb8c00&stroke_color=8be9fd&photo_quality=100) <br/>
 
 ## My current streak and more
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abraaosantosdeveloper&theme=dark&hide_border=false)<br/>
