@@ -21,15 +21,11 @@ Building experience with I.T.
 ## General Stats
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=abraaosantosdeveloper&theme=dark&hide=repos,forks,prs_merged&title_color=50fa7b&icon_color=fb8c00&stroke_color=8be9fd&photo_quality=100) <br/>
 
-## My current streak and more
+## My current streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abraaosantosdeveloper&theme=dark&hide_border=false)<br/>
 <br><br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abraaosantosdeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abraaosantosdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+![trophy](https://github-trophies.vercel.app/?username=abraaosantosdeveloper)<br/>
 
 ## 🌐 Socials:
 
