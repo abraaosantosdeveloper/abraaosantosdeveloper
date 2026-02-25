@@ -26,6 +26,7 @@ Building experience with I.T.
 <br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abraaosantosdeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=abraaosantosdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
