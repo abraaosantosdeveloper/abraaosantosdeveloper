@@ -112,11 +112,10 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 
 <br>
 
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <img src="https://gh-readme-profile.vercel.app/api?username=abraaosantosdeveloper&theme=dark&hide=repos,forks,prs_merged&title_color=50fa7b&icon_color=fb8c00&stroke_color=8be9fd&photo_quality=100" alt="GitHub Stats" height=150/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abraaosantosdeveloper&theme=dark&hide_border=false" alt="GitHub Streak" height=150/>
 </div>
+
 
 <br>
 <br>
