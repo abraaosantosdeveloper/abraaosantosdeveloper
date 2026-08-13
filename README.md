@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="font-size: 40px; font-weight: 500;"> Abraão Filipi dos Santos </span>
+# Abraão Filipi dos Santos
 
 *Back-End Developer*
 </div>
@@ -14,10 +14,11 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend. Tra
 Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** (WIP), uma aplicação full-stack de chat e rede social que uso como vitrine técnica — do desenho do banco de dados à comunicação em tempo real via WebSockets. Meus projetos Estão no meu portfólio, desde os mais simples, até o mais completo que já desenvolvi antes do **Blabry**, exceto ele mesmo, uma vez que ainda está sendo desenvolvido.
 </p>
 
-<div style="height: 100px; display: flex; align-items: center; justify-content: center;">
+<br>
 
-<a style="background-color: #2579f6; color: #fff; padding: 10px 40px; font-weight: 500; text-align: center; border-radius: 5px" href="https://abraaosantosdeveloper.github.io">Acessar portfólio 🡥</a>
-</div>
+<div align="center">
+
+[Acessar portfólio 🡥](https://abraaosantosdeveloper.github.io)
 
 </div>
 
@@ -82,27 +83,26 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 
 ## 🎓 Formação Acadêmica e Certificações
 
-<div style="border-left: 4px solid #2579f6; padding: 10px 20px; margin-bottom: 15px; display: flex; align-items: center; gap: 15px;">
-<img src="./assets/marca.svg" width="40"/>
-<div>
-<b>Análise e Desenvolvimento de Sistemas</b><br>
-<i>CESAR School (3º período)</i>
-</div>
-</div>
-<div style="border-left: 4px solid #2579f6; padding: 10px 20px; margin-bottom: 15px; display: flex; align-items: center; gap: 15px;">
-<img src="./assets/images.png" width="40"/>
-<div>
-<b>C fundamentals</b><br>
-<i>Cisco Networking Academy</i>
-</div>
-</div>
-<div style="border-left: 4px solid #2579f6; padding: 10px 20px; display: flex; align-items: center; gap: 15px;">
-<img src="./assets/senai-165.png" width="40"/>
-<div>
-<b>Desenvolvimento de Sistemas</b><br>
-<i>SENAI</i>
-</div>
-</div>
+<br>
+
+<table width="100%">
+  <tr>
+    <td align="center"><b>Instituição</b></td>
+    <td><b>Detalhes do curso</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="./assets/marca.svg" width="50"/></td>
+    <td><b>Análise e Desenvolvimento de Sistemas</b><br><i>CESAR School (3º período)</i></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="./assets/images.png" width="50"/></td>
+    <td><b>C fundamentals</b><br><i>Cisco Networking Academy</i></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="./assets/senai-165.png" width="50"/></td>
+    <td><b>Desenvolvimento de Sistemas</b><br><i>SENAI</i></td>
+  </tr>
+</table>
 
 
 <br>
@@ -118,7 +118,13 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abraaosantosdeveloper&theme=dark&hide_border=false" alt="GitHub Streak" height=150/>
 </div>
 
-<div align="center" style="padding: 20px; border-top: 1px solid #30363d; background-color: #8891a4; margin-top: 120px">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
 <sub>Feito por <b>Abraão Filipi dos Santos</b> · Atualizado em 2026</sub>
 
 <sub>⚡ Powered by curiosidade, café e alguns bugs corrigidos às 2h da manhã</sub>
