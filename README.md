@@ -4,32 +4,9 @@
 
 *Back-End Developer*
 </div>
-  
-<br>
-
-<div>
-<p style="">
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend. Trabalho com <b>Node.js, Flask e bibliotecas/extensões complementares</b>, aplicando arquitetura em camadas e princípios SOLID no dia a dia dos meus projetos. Atualmente, estou construindo conhecimentos em TypeScript, Docker e AWS. 
-
-Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** (WIP), uma aplicação full-stack de chat e rede social que uso como vitrine técnica — do desenho do banco de dados à comunicação em tempo real via WebSockets. Meus projetos Estão no meu portfólio, desde os mais simples, até o mais completo que já desenvolvi antes do **Blabry**, exceto ele mesmo, uma vez que ainda está sendo desenvolvido.
-</p>
-
-<br>
 
 <div align="center">
 
-[Acessar portfólio 🡥](https://abraaosantosdeveloper.github.io)
-
-</div>
-
-<br>
- 
- ---
-
-
-<div align="center">
-
-### 🌐 Redes Sociais
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abraaosantosdev/)
@@ -38,8 +15,18 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abraaosantosdeveloper)
 
 </div>
+  
+<br>
 
----
+Estudante de Análise e Desenvolvimento de Sistemas na CESAR School e residente de tecnologia na Porto Digital, com foco em backend e arquitetura de software. Gosto de construir sistemas robustos e escaláveis, aplicando princípios SOLID e Clean Architecture em projetos como o [Blabry](https://abraaosantosdeveloper.github.io/blabry-docs/) (plataforma de comunicação em tempo real com Node.js, Socket.io e criptografia de mensagens). Estou sempre expandindo meus conhecimentos. Vamos conversar sobre tecnologia? 🚀
+
+<br>
+
+<div align="center">
+
+[Acessar portfólio 🡥](https://abraaosantosdeveloper.github.io)
+
+</div>
 
 <br>
 
