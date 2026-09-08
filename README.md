@@ -4,32 +4,9 @@
 
 *Back-End Developer*
 </div>
-  
-<br>
-
-<div>
-<p style="">
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend. Trabalho com <b>Node.js, Flask e bibliotecas/extensões complementares</b>, aplicando arquitetura em camadas e princípios SOLID no dia a dia dos meus projetos. Atualmente, estou construindo conhecimentos em TypeScript, Docker e AWS. 
-
-Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** (WIP), uma aplicação full-stack de chat e rede social que uso como vitrine técnica — do desenho do banco de dados à comunicação em tempo real via WebSockets. Meus projetos Estão no meu portfólio, desde os mais simples, até o mais completo que já desenvolvi antes do **Blabry**, exceto ele mesmo, uma vez que ainda está sendo desenvolvido.
-</p>
-
-<br>
 
 <div align="center">
 
-[Acessar portfólio 🡥](https://abraaosantosdeveloper.github.io)
-
-</div>
-
-<br>
- 
- ---
-
-
-<div align="center">
-
-### 🌐 Redes Sociais
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abraaosantosdev/)
@@ -38,8 +15,18 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abraaosantosdeveloper)
 
 </div>
+  
+<br>
 
----
+Estudante de Análise e Desenvolvimento de Sistemas na CESAR School e residente de tecnologia na Porto Digital, com foco em backend e arquitetura de software. Gosto de construir sistemas robustos e escaláveis, aplicando princípios SOLID e Clean Architecture em projetos como o [Blabry](https://abraaosantosdeveloper.github.io/blabry-docs/) (plataforma de comunicação em tempo real com Node.js, Socket.io e criptografia de mensagens). Estou sempre expandindo meus conhecimentos. Vamos conversar sobre tecnologia? 🚀
+
+<br>
+
+<div align="center">
+
+[Acessar portfólio 🡥](https://abraaosantosdeveloper.github.io)
+
+</div>
 
 <br>
 
@@ -59,7 +46,18 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socketdotio-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-%23F9DC3e.svg?style=for-the-badge&logo=babel&logoColor=black)
 
+### Bancos de Dados & Cloud / Containers
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Ferramentas de testes
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 ### Ferramentas de documentação
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
@@ -69,13 +67,10 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Bancos de Dados & Cloud
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
-
 ### Ferramentas complementares
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
 <br>
@@ -101,8 +96,7 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 
 <br>
 
-<img src="https://gh-readme-profile.vercel.app/api?username=abraaosantosdeveloper&theme=dark&hide=repos,forks,prs_merged&title_color=50fa7b&icon_color=fb8c00&stroke_color=8be9fd&photo_quality=100" alt="GitHub Stats" height=150/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abraaosantosdeveloper&theme=dark&hide_border=false" alt="GitHub Streak" height=150/>
+<img src="https://gh-readme-profile.vercel.app/api?username=abraaosantosdeveloper&theme=dark&hide=repos,forks,prs_merged&title_color=50fa7b&icon_color=fb8c00&stroke_color=8be9fd&photo_quality=100" alt="GitHub Stats" height=150/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abraaosantosdeveloper&theme=dark&hide_border=false" alt="GitHub Streak" height=150/>
 </div>
 
 
