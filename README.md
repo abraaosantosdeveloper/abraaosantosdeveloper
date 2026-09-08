@@ -85,24 +85,13 @@ Já trabalhei em diversos projetos, mas atualmente, o principal é o **Blabry** 
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td align="center"><b>Instituição</b></td>
-    <td><b>Detalhes do curso</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><img src="./assets/marca.svg" width="50"/></td>
-    <td><b>Análise e Desenvolvimento de Sistemas</b><br><i>CESAR School (3º período)</i></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><img src="./assets/images.png" width="50"/></td>
-    <td><b>C fundamentals</b><br><i>Cisco Networking Academy</i></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><img src="./assets/senai-165.png" width="50"/></td>
-    <td><b>Desenvolvimento de Sistemas</b><br><i>SENAI</i></td>
-  </tr>
-</table>
+<ul style="list-style: none; padding-left: 0;">
+	<li><img src="./assets/marca.svg" width="50" align="left" alt="Logo da CESAR School"> <b>Análise e Desenvolvimento de Sistemas</b><br><i>CESAR School (3º período)</i><br clear="left"></li>
+	<li><img src="./assets/images.png" width="50" align="left" alt="Logo da Cisco Networking Academy"> <b>C fundamentals</b><br><i>Cisco Networking Academy</i><br clear="left"></li>
+	<li><img src="./assets/senai-165.png" width="50" align="left" alt="Logo do SENAI"> <b>Desenvolvimento de Sistemas</b><br><i>SENAI</i><br clear="left"></li>
+	<li><img src="./assets/santander.png" width="50" align="left" alt="Logo da Santander Open Academy"> <b>Rust Developer</b><br><i>Santander Open Academy & DIO</i><br clear="left"></li>
+	<li><img src="./assets/rocketseat.png" width="50" align="left" alt="Logo da RocketSeat"> <b>Desenvolvedor Front End (HTML, CSS e JS)</b><br><i>RocketSeat</i><br clear="left"></li>
+</ul>
 
 
 <br>
